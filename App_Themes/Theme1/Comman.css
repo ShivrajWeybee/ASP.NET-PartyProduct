@@ -1,0 +1,12 @@
+﻿*{
+    box-sizing:border-box;
+}
+.edit-delete-btn button {
+    margin-right: 20px
+}
+table.tabletable tbody tr td {
+    padding: 10px 10px 0 0 !important;
+}
+.text-bold{
+    font-weight: 700;
+}
